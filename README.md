@@ -1,2 +1,1 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+Projeto calculadora imc em DART para o desafio proposto pela dio.me no Santander BootCamp 2023.
